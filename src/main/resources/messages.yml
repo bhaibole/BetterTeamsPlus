@@ -1,0 +1,6 @@
+# Custom plugin messages
+prefix: "&b[BetterTeamsPlus] "
+no-permission: "&cYou do not have permission!"
+team-create-start: "&aOpening team creation menu..."
+team-name-prompt: "&ePlease type your new team name in chat."
+team-created: "&aTeam &f%team% &ahas been successfully created!"
