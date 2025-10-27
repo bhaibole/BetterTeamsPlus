@@ -1,10 +1,8 @@
 name: BetterTeamsPlus
-version: 1.0.0
+version: 1.1
 main: dev.allenalt.tw.betterteamsplus.BetterTeamsPlus
-api-version: 1.20
-author: Allenalt_TW
-description: A team management plugin inspired by BetterTeams with a GUI-based team creation feature.
+api-version: 1.21
+author: AllenAlt_TW
 commands:
   team:
-    description: Main team command
-    usage: /team <args>
+    description: Manage your team
