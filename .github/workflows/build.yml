@@ -1,4 +1,4 @@
-fname: Build BetterTeamsPlus
+name: Build BetterTeamsPlus
 on: [push]
 
 jobs:
